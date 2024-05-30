@@ -1,4 +1,5 @@
 This project aims to develop a comprehensive banking interface that facilitates seamless access to various banking services for customers, employees, and managers. The interface provides a centralized platform for managing accounts, conducting transactions, and overseeing banking operations.
+
 📍 Features:
 
 View account summaries
